@@ -48,7 +48,7 @@ header{
 }
 
 .navigation a:hover{
-    color:#064477;
+    background-color:#064477;
 }
 
 section{
@@ -118,7 +118,7 @@ section{
 
 .aboutMe-p a{
     text-decoration: none;
-    color: #126bbe;
+    color: #038C65;
     font-size: 1.2em;
 }
 
@@ -150,7 +150,7 @@ section{
 
 .title{
     font-size: 2em;
-    color: #0b67bd;
+    color: #038C65;
     margin-top: 30px;
 }
 
@@ -340,7 +340,7 @@ section{
     min-height: 100vh;
     display: block;
     z-index: 98;
-    background-color: #03338c;
+    background-color: #0a51ad;
     padding-top: 120px;
     transition: 0.4s;
 }
@@ -362,7 +362,7 @@ section{
 }
 
 .mobile-nav a:hover{
-    background-color: rgb(60, 87, 207);
+    background-color: rgb(234, 234, 234);
 }
 
 
@@ -385,7 +385,7 @@ section{
     min-height: 100vh;
     display: block;
     z-index: 98;
-    background-color: #125696;
+    background-color: #038C65;
     padding-top: 120px;
     transition: 0.4s;
 }
